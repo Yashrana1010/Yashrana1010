@@ -35,7 +35,7 @@
 
 ## ```ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ```
 <p align="center">
-<a href="https://wa.me/+918130923346"><img src="https://img.shields.io/badge/Contact Hacktivist-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+918130923346"><img src="https://img.shields.io/badge/Contact YASH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <br>
 </p>
 
