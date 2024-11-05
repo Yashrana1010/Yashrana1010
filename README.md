@@ -35,7 +35,7 @@
 
 ## ```ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ```
 <p align="center">
-<a href="https://wa.me/12266460654"><img src="https://img.shields.io/badge/Contact Hacktivist-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+918130923346"><img src="https://img.shields.io/badge/Contact Hacktivist-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCB1xRDTNMjT7XesNaELK20w"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
